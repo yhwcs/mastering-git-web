@@ -2,11 +2,15 @@
 
 ## mastering-git-web
 
+----
+
 This repository houses a proposed website for the Mastering Git book.
 
 Contact: mwkoo@sogang.ac.kr
 
 ## 팀원 소개
+
+----
 
 | 이름 | 학번 | 학과 |
 |------|------|------|
@@ -21,7 +25,7 @@ Contact: mwkoo@sogang.ac.kr
 > 한때 유행에 그칠 줄 알았던 ‘MBTI’ 열풍이 이어지면서 MBTI 관련 콘텐츠 역시 다양화하고 있다.
 단순히 자신의 MBTI 유형을 알아보는 것을 넘어 같은 유형의 사람들과 공감하고 다른 유형의 특성을 이해하려는 움직임으로 이어진 것.
 
-[단순 유행 넘어선 ‘MBTI’…”타인을 이해할 수 있게 됐어요”](http://snaptime.edaily.co.kr/?p=54683,MBTI,?%93%EA?%EB%AA%A8%EC%9D%8C,%EA%B3%BC%EB%AA%B0??ESTP,ESTJ,ESFP,ESFJ,ENTP,ENFP,ENTJ,ENFJ,ISTP,ISTJ,ISFP,ISFJ,INFP,INTP,INFJ,INTJ)
+> [단순 유행 넘어선 ‘MBTI’…”타인을 이해할 수 있게 됐어요”](http://snaptime.edaily.co.kr/?p=54683,MBTI,?%93%EA?%EB%AA%A8%EC%9D%8C,%EA%B3%BC%EB%AA%B0??ESTP,ESTJ,ESFP,ESFJ,ENTP,ENFP,ENTJ,ENFJ,ISTP,ISTJ,ISFP,ISFJ,INFP,INTP,INFJ,INTJ)
 
 ----
 
@@ -30,6 +34,8 @@ Contact: mwkoo@sogang.ac.kr
 자주 사용하는 SNS를 기반으로 게시글을 분석하여 성격 테스트 결과를 알아볼 수 있다면 좋을 것이다.
 
 ## 개발 내용
+
+----
 
 1. 인스타그램의 특정 계정에서 사진과 텍스트를 크롤링한다.
 2. 사진의 색감을 분석하여 그룹화 한다.
